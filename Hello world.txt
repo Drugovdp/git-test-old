@@ -1,0 +1,2 @@
+print("Hollj world")
+print("Hello evrybody")
